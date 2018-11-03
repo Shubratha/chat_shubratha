@@ -1,0 +1,24 @@
+<userinfo>
+	<users>
+		<user>
+			<firstname>Ali</firstname>
+			<lastname>Baba</lastname>
+			<dob>1996-01-01</dob>
+			<adharID>1234567890123456</adharID>
+			<gender>m</gender>
+			<email>alibaba400@gmail.com</email>
+			<username>Ali</username>
+			<password>ali400baba</password>
+		</user>
+		<user>
+			<firstname>Tenali</firstname>
+			<lastname>Rama</lastname>
+			<dob>1996-02-02</dob>
+			<adharID>6543210987654321</adharID>
+			<gender>m</gender>
+			<email>tenalirama@gmail.com</email>
+			<username>rama</username>
+			<password>tenali_rama</password>
+		</user>
+	</users>
+</userinfo>

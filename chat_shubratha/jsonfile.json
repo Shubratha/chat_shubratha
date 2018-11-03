@@ -1,0 +1,28 @@
+[
+	{
+		"user": 
+		{
+			"firstname":"Harry",
+			"lastname":"Potter",
+			"dob":"1996-03-03",
+			"adharID":"1345",
+			"gender":"m",
+			"email":"harrypotter@gmail.com",
+			"username":"HarryP",
+			"password":"harry_P"
+		}
+	},
+	{	
+		"user":
+		{
+			"firstname":"Ron",
+			"lastname":"Weasley",
+			"dob":"1996-04-04",
+			"adharID":"2613",
+			"gender":"m",
+			"email":"ronweasley@gmail.com",
+			"username":"ron",
+			"password":"ron_w"
+		}
+	}
+]
